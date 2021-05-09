@@ -1,0 +1,74 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+}
+.name{
+    color: orangered;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg,red,yellow);
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+.sub{
+    width: 40%;
+    padding-left: 5px;
+    float: left;
+   
+}
+.sub img{
+    width: 100%;
+}
+.back{
+    background-image: url(header-bg.png);
+    background-repeat: no-repeat;
+ 
+}
+section{
+    height: 500px;
+}
+.another{
+    width: 40%;
+    padding-left: 5px;
+    float: left;
+}
+.another img{
+    width: 100%;
+}
+#middle{
+   color: orangered;
+   margin: 70px;
+}
+.ground{
+    background-image: url(biography-bg.png);
+    background-repeat: no-repeat;
+}
+.late{
+    float: left;
+    width: 25%;
+    padding-left: 50px;
+}
+.late img{
+    width: 100%;
+}
+.per{
+    background-image: url(latest-work-bg.png);
+    background-repeat: no-repeat;
+}
+.foot{
+    background-image: url(footer-bg.png);
+    background-repeat: no-repeat;
+}
+.last{
+    box-shadow: 10px 10px 40px gray;
+    margin-left: 20%;
+    margin-right: 20%;
+
+    padding-top: 30px;
+   height: 150px;
+   background-color: orangered;
+}
+.las{
+    padding-top:25%;
+}
